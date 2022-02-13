@@ -1,2 +1,2 @@
-# Big_Data_n_Analytics
+# Big Data & Analytics
 This is my Data Analysis, Data Science, and Data Engineering project.
